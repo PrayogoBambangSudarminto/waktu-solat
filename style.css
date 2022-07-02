@@ -1,15 +1,20 @@
 body {
+    height: 600px;
     background-color: 	#F5F5DC;
     background-image: url(img/cork-wallet.webp);
+    
 }
 /* Navbar */
 nav {
     display: flex;
     font-family: 'Cormorant Garamond', serif;
-    background-color: 	white;
+    background-color: whitesmoke;
     /* padding: 10px; */
-    margin-top: -10px;
+    top: 0;
+    right: 0;
     height: 60px;
+    width: 100%;
+    position: fixed;
     color: #8FBC8F;
     justify-content: space-between;
     align-items: center;
@@ -44,11 +49,12 @@ nav ul li a {
     background-color: #F5DEB3;
     background-image: url(img/hotel-wallpaper.webp);
     margin: auto;
-    margin-top: 70px;
-    border: 5px solid #8FBC8F;
+    margin-top: 150px;
+    border: 10px solid #8FBC8F;
     width: 1020px; 
     height: 400px;
     box-shadow: 10px 15px 15px rgb(0,0,0,.77);
+    
 }
 
 .text1 {

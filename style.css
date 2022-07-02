@@ -1,0 +1,194 @@
+body {
+    background-color: 	#F5F5DC;
+    background-image: url(img/cork-wallet.webp);
+}
+/* Navbar */
+nav {
+    display: flex;
+    font-family: 'Cormorant Garamond', serif;
+    background-color: 	white;
+    /* padding: 10px; */
+    margin-top: -10px;
+    height: 60px;
+    color: #8FBC8F;
+    justify-content: space-between;
+    align-items: center;
+}
+nav h4 {
+    font-size: large;   
+    margin-left: 90px;
+    margin-top: -40px;
+}
+nav img {
+    width: 80px;
+    margin-top: 15px;
+}
+nav img h4 {
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    font-family: 'Cormorant Garamond', serif;
+    list-style: none;
+    width: 40%;
+    justify-content: space-evenly;
+}
+nav ul li a {
+    color: #8FBC8F;
+    text-decoration: none;
+}
+
+.f1
+ {
+    background-color: #F5DEB3;
+    background-image: url(img/hotel-wallpaper.webp);
+    margin: auto;
+    margin-top: 70px;
+    border: 5px solid #8FBC8F;
+    width: 1020px; 
+    height: 400px;
+    box-shadow: 10px 15px 15px rgb(0,0,0,.77);
+}
+
+.text1 {
+    font-size: 25px;
+    line-height: 300%;
+    padding-left: 50px;
+    margin-top: -215px;
+}
+.box {
+    width: 170px;
+    height: 40px; 
+    margin-left: 40px;
+    margin-top: -50px;
+    background-color: #8FBC8F;
+}
+.time {
+    font-size: 30px;
+    align-items: center;
+}
+.text3 {
+    font-size: 25px;
+}
+.box2 {
+    width: 200px;
+    height: 40px; 
+    margin-left: -10px;
+    margin-top: -20px;
+    background-color: #8FBC8F;
+}
+.date {
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.box3 {
+    width: 100px;
+    height: 40px; 
+    margin-left: 860px;
+    margin-top: -30px;
+    background-color: #8FBC8F;
+}
+.textisya {
+    font-size: 25px;
+    margin-top: 75px;
+    margin-left: 880px;
+}
+.text6 {
+    font-size: 30px;
+    margin-left: 20px;
+}
+.box4 {
+    width: 100px;
+    height: 40px;
+    margin-left: -160px;
+    margin-top: -70px;
+    background-color: #8FBC8F;
+}
+.text7 {
+    font-size: 30px;
+    margin-left: -180px;
+    margin-top: -60px;
+    margin-left: -140px;
+}
+.textmagrib {
+    font-size: 25px;
+    margin-top: -55px;
+    margin-left: 700px;
+}
+.boxashar {
+    width: 100px;
+    height: 40px;
+    margin-left: -175px;
+    background-color: #8FBC8F;
+}
+.boxdzuhur {
+    width: 100px;
+    height: 40px;
+    margin-left: -180px;
+    margin-top: 30px;
+    background-color: #8FBC8F;
+}
+.boxsyuruq {
+    width: 100px;
+    height: 40px;
+    margin-left: -180px;
+    background-color: #8FBC8F;
+}
+.boxsubuh {
+    width: 100px;
+    height: 40px;
+    margin-left: -170px;
+    background-color: #8FBC8F;
+}
+.textashar {
+    font-size: 25px;
+    margin-top: -50px;
+    margin-left: 530px;
+}
+.textdzuhur {
+    font-size: 25px;
+    margin-top: -50px;
+    margin-left: 345px;
+}
+.textsyuruq {
+    font-size: 25px;
+    margin-top: -55px;
+    margin-left:160px;
+}
+.textsubuh {
+    font-size: 25px;
+    margin-top: -50px;
+    margin-left: 5px;
+}
+.waktuashar {
+    font-size: 30px;
+    margin-left: -320px;
+    margin-top: -60px;
+}
+.waktudzuhur {
+    font-size: 30px;
+    margin-left: -500px;
+    margin-top: -65px;
+}
+.waktusyuruq {
+    font-size: 30px;
+    margin-left: -680px;
+    margin-top: -70px;
+    
+
+}
+.waktusubuh {
+    font-size: 30px;
+    margin-left: -850px;
+    margin-top: -60px;
+    
+}
+.textmasjid {
+    margin-left: 500px;
+    margin-top: 100px;
+    font-size: 50px;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bolder;
+}

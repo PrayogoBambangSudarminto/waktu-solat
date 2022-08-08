@@ -1,6 +1,6 @@
 body {
     height: 600px;
-    background-color: 	#F5F5DC;
+    background-color: white;
     background-image: url(img/cork-wallet.webp);
     
 }
@@ -46,7 +46,7 @@ nav ul li a {
 
 .f1
  {
-    background-color: #F5DEB3;
+    background-color: white;
     background-image: url(img/hotel-wallpaper.webp);
     margin: auto;
     margin-top: 150px;
